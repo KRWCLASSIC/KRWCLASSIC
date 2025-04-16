@@ -8,9 +8,17 @@
 
 ## Socials:
 
- 
-
  - Youtube: [*@krwclassic*](https://short.krwclassic.com/yt)
  - Instagram [*@krw_classic*](https://short.krwclassic.com/ig)
  - Discord: *@krwclassic*
  - idk.
+
+## Donate:
+
+BTC: `bc1qrfjtz52hguusrwu2alxsyalxnr5jd3ant5vm3d`
+
+LTC: `ltc1q5yj5aug05wfpn9fd8rtm2wavcwm8e78vrptnpt`
+
+ETH: `0x349031e7Ae4D10b961baC3D621E50080Be54B97A`
+
+[Paypal](https://paypal.me/krwclassic?country.x=PL&locale.x=pl_PL)
