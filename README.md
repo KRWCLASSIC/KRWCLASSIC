@@ -8,8 +8,8 @@
 
 ## Socials:
 
- - Youtube: [*@krwclassic*](https://short.krwclassic.com/yt)
- - Instagram [*@krw_classic*](https://short.krwclassic.com/ig)
+ - Youtube: [*@krwclassic*](https://youtube.com/@krwclassic)
+ - Instagram [*@krw_classic*](https://instagram.com/krw_classic/)
  - Discord: *@krwclassic*
  - idk.
 
