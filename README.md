@@ -1,4 +1,4 @@
- - 🌐 Python, Batch, Bash, C++, HTML, CSS, *JavaScript*, *Powershell*
+ - 🌐 Python, Batch, Bash, C++, *C#*, HTML, CSS, *JavaScript*, Powershell
  - 🗣️ Polish, English
  - 📌 Poland
  - 🔗 [krwclassic.com](https://krwclassic.com)
